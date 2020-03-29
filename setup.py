@@ -9,7 +9,7 @@ with codecs.open('README.md', encoding='utf-8') as readme:
 
 setuptools.setup(
     name='siphash-lite',
-    version='0.1',
+    version='0.1.3',
     author='Azat Kurbanov',
     author_email='cordalace@gmail.com',
     description='Siphash calculation',
