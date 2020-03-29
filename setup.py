@@ -13,6 +13,7 @@ setuptools.setup(
     author='Azat Kurbanov',
     author_email='cordalace@gmail.com',
     description='Siphash calculation',
+    long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     license='MIT',
     url='https://github.com/cordalace/siphash-lite',
